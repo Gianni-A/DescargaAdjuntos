@@ -1,0 +1,6 @@
+Correo=test@correo.com
+Password=123
+RevisaCada=5000
+ExtencionDescarga=jpg,png
+RutaDescarga=D:/DescargarImagenes
+CantidadARevisar=5
